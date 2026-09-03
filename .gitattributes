@@ -1,0 +1,3 @@
+# Mark apk files as binary and not to be diffed
+*.apk binary
+*.apk linguist-vendored

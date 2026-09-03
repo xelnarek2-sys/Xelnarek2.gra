@@ -1,0 +1,19 @@
+# Android / Java
+.gradle/
+/local.properties
+/.idea/
+*.iml
+/build/
+/captures/
+.externalNativeBuild/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# APKs and outputs
+*.apk
+*.aab
+
